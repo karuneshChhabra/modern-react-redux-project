@@ -33,3 +33,6 @@ module.exports = {
     },
     plugins: [new webpack.HotModuleReplacementPlugin()]
 };
+
+// npx webpack serve --https
+//npx webpack-dev-server --mode development
